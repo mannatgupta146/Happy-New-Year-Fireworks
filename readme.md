@@ -8,7 +8,7 @@ A dynamic and colorful fireworks animation created with HTML5 Canvas and JavaScr
 - Smooth animations with particle effects.
 
 
-## 🚀 How It Works
+## How It Works
 1. **Initialization**: The JavaScript code initializes a canvas element and sets up essential styles and properties like width and height.
 2. **Animation Logic**: The script defines particle and fireworks animations that generate the fireworks effect.
 3. **Resizing and Redrawing**: On window resize, the canvas is resized, ensuring the animation remains responsive.
